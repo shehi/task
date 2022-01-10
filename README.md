@@ -33,3 +33,5 @@ composer install;
 npm i;
 npm run dev;
 ```
+
+ACCESS AT `http://localhost`
